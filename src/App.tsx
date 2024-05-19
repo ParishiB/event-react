@@ -30,19 +30,19 @@ const App = () => {
   const names = [
     {
       name: "Jane Doe",
-      image: "src/assets/profile.png",
+      image: "public/profile.png",
     },
     {
       name: "John Doe",
-      image: "src/assets/profile.png",
+      image: "/profile.png",
     },
     {
       name: "Jamie Smith",
-      image: "src/assets/profile.png",
+      image: "/profile.png",
     },
     {
       name: "Parishi B",
-      image: "src/assets/profile.png",
+      image: "/profile.png",
     },
   ];
 
