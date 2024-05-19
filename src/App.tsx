@@ -30,7 +30,7 @@ const App = () => {
   const names = [
     {
       name: "Jane Doe",
-      image: "public/profile.png",
+      image: "/profile.png",
     },
     {
       name: "John Doe",
